@@ -3,7 +3,7 @@ https://d1.awsstatic.com/whitepapers/building-a-scalable-and-secure-multi-vpc-aw
 -
 # Layer 3 connection
 ## VPC PEERING
-* Connect up to 10 vpc
+* Connect up to 10 vpc also diferent regions
 ## TRANSIT GW
 * Up to 100s vpc, Transitive Peering with multiple vpc, vpn, and onpremise (Direct Connect) throught a central hub
 * one per region and connect vpc on the same region
