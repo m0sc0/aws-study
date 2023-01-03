@@ -8,10 +8,9 @@ https://d1.awsstatic.com/whitepapers/building-a-scalable-and-secure-multi-vpc-aw
 * Up to 100s vpc, Transitive Peering with multiple vpc, vpn, and onpremise (Direct Connect) throught a central hub
 * one per region and connect vpc on the same region
 
--
 ## DIRECT CONNECT
-* alternative for using aws service or vpn over internet
 * private link to on-premise DC without encription
+* alternative for using aws service or vpn over internet
 * Can connect multiple VPC on diferent regions
 * DX Resiliency: more than one connection
 ## AWS VPN CLOUD HUB
@@ -20,7 +19,6 @@ https://d1.awsstatic.com/whitepapers/building-a-scalable-and-secure-multi-vpc-aw
 ## SITE TO SITE VPN
 * Connect over internet
 
--
 # Api connection
 ## PRIVATE LINK
 * Expose a service to multiple VPC (1000s) without need of vpc peering
