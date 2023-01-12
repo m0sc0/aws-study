@@ -1,10 +1,13 @@
 Elsatic Transcoder: para tranformar videos
-Workspace: secuire desktop
+Workspace: secure desktop
 App sync
-Cost explorer: visualize cost and forecast
-Trust Advisor: Analyze your AWS accounts recomendate of :
+
+# Cost explorer: visualize cost and forecast
+AWS Simple Monthly Calculator: caclulator for testing
+
+# Trust Advisor: Analyze your AWS accounts recomendate of :
 * cost opti
-* perfoemance
+* performance
 * security
 * fault tolerance
 * service limits
