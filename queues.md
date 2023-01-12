@@ -10,9 +10,10 @@
 
 
 # Kinesis: real-time streaming model
-• Kinesis Data Streams: capture, process, and store data streams  
-• Kinesis Data Firehose: load data streams into AWS data stores  
-  * destination: s3, redshift,elasticsearch  
-• Kinesis Data Analytics: analyze data streams with SQL or Apache Flink  
-• Kinesis Video Streams: capture, process, and store video streams  
+Kinesis Data Streams: capture, process, and store data streams  
+Kinesis Data Firehose: load data streams into AWS data stores  
+* destination: s3, redshift,elasticsearch  
+Kinesis Data Analytics: analyze data streams with SQL or Apache Flink  
+Kinesis Video Streams: capture, process, and store video streams  
+
 partition key  
